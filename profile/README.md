@@ -9,7 +9,7 @@ Our mission is to develop cutting-edge AI-powered solutions that address critica
 
 ## Team Structure
 
-Our team consists of 6 members, each bringing unique skills and perspectives to our projects. We value collaboration, innovation, and continuous learning.
+Our team consists of 7 members, each bringing unique skills and perspectives to our projects. We value collaboration, innovation, and continuous learning.
 
 ## Get Involved
 
