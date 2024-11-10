@@ -11,6 +11,10 @@ Our mission is to develop cutting-edge AI-powered solutions that address critica
 
 Our team consists of 7 members, each bringing unique skills and perspectives to our projects. We value collaboration, innovation, and continuous learning.
 
+## Repositories
+
+Our repositories illustrate our collaborative efforts, and you can find the project prototype in the repository named **Prototype**.
+
 ## Get Involved
 
 We're always open to collaboration and knowledge sharing. If you're interested in our work or want to contribute, please reach out to us.
