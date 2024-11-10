@@ -39,14 +39,14 @@ You can click below to view it directly in YouTube:
 
 ## Team Structure
 Our team consists of a group of passionate and skilled developers working together to create the Smartshield-INSAT solution. We collaborate closely, drawing from expertise in cybersecurity, machine learning, cloud technologies, and software development to ensure that our project is both technically sound and highly impactful.
-- Kacem Mathlouthi
-- Fayez Zouari
-- Mohamed Amine Haouas
-- Youssef Abid
-- Mohamed Masmoudi
-- Iyed Medimegh
-- Achref Ben Ammar
-- Raed Addala 
+- [Kacem Mathlouthi](https://github.com/KacemMathlouthi)
+- [Fayez Zouari](https://github.com/fayezzouari)
+- [Mohamed Amine Haouas](https://github.com/safina57)
+- [Youssef Abid](https://github.com/abid-youssef)
+- [Mohamed Masmoudi](https://github.com/enigma522)
+- [Iyed Mdimegh](https://github.com/iyedmdimegh)
+- [Achref Ben Ammar](https://github.com/achrefbenammar404)
+- [Raed Addala](https://github.com/RaedAddala)
 
 ## Get Involved
 We welcome contributions from developers, security researchers, and other stakeholders interested in enhancing network security tools and technologies. Here’s how you can get involved:
