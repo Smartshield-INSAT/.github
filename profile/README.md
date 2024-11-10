@@ -18,7 +18,7 @@ Explore the various components of the Smartshield-INSAT project:
 
 ## System Overview
 The Smartshield-INSAT project simulates an entire architecture using Docker containers, providing a robust environment with several key services for monitoring and analyzing network traffic. The architecture is built to provide a comprehensive view of network activities, from log collection to threat analysis and reporting.
-![alt text](image.png)
+![alt text](img.png)
 
 This project sets up an infrastructure with the following services:
 
@@ -32,8 +32,10 @@ This project sets up an infrastructure with the following services:
 - **Generative AI Report Generator**: An AI-driven tool that generates detailed reports based on processed data, providing insights into detected anomalies or patterns.
 
 ## Demo Video
-Watch a walkthrough of the project setup and functionality in our 
-[Demo Video](https://youtu.be/2Nd6C_SpXak).
+Watch a walkthrough of the project setup and functionality 
+You can click below to view it directly in YouTube:
+
+[![Demo Video Thumbnail](thbnail.jpg)](https://youtu.be/2Nd6C_SpXak)
 
 ## Team Structure
 Our team consists of a group of passionate and skilled developers working together to create the Smartshield-INSAT solution. We collaborate closely, drawing from expertise in cybersecurity, machine learning, cloud technologies, and software development to ensure that our project is both technically sound and highly impactful.
